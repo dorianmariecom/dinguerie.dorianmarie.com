@@ -1,20 +1,21 @@
 ---
-title: Dorian Marié
 layout: default
 ---
 
-Hi 👋<br>
-I’m french 🇫🇷<br>
-I’m a programmer 🧑‍💻<br>
-My resume: [English](/cv.pdf) / [French](/fr/cv.pdf) 📁<br>
+# C'est une dinguerie !
 
-I like working with: ❤️<br>
-**Ruby** with Ruby on Rails 💎<br>
-**JavaScript** with React ⚛️ and/or Hotwire ⚡️<br>
-**SQL** with PostgreSQL 🐘
+## C'est Chatroulette pour ton taff !
 
-My phone number is [+33 7 67 23 95 73](tel:+33 7 67 23 95 73) 📞<br>
-My email is [dorian@dorianmarie.com](mailto:dorian@dorianmarie.com) ✉️<br>
-My GitHub is [@dorianmariecom](https://github.com/dorianmariecom) 🐙<br>
-My Twitter is [@dorianmariecom](https://twitter.com/dorianmariecom) 🐦<br>
-My LinkedIn is [Dorian Marié](https://www.linkedin.com/in/dorianmariecom/) 🕴️
+### Tu cherches du taff ?
+
+<form action="https://formspree.io/f/xpwaznqe" method="POST">
+  <input type="email" name="email" placeholder="Ton mail" class="border-2 border-black rounded p-2">
+  <button type="submit" class="rounded bg-black text-white px-4 py-2">S'inscrire</button>
+</form>
+
+### Tu cherches une personne pour faire le taff ?
+
+<form action="https://formspree.io/f/xgvweqoq" method="POST">
+  <input type="email" name="email" placeholder="Vot mail" class="border-2 border-black rounded p-2">
+  <button type="submit" class="rounded bg-black text-white px-4 py-2">S'inscrire</button>
+</form>
